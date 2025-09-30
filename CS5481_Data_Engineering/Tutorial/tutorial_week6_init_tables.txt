@@ -1,0 +1,30 @@
+CREATE TABLE EmployeeInfo (
+  EmpID INT,
+  EmpFname VARCHAR(100),
+  EmpLname VARCHAR(100),
+  Department VARCHAR(100),
+  Project VARCHAR(100),
+  Address VARCHAR(100),
+  DOB DATE,
+  Gender VARCHAR(100)
+);
+
+INSERT INTO EmployeeInfo(EmpID, EmpFname, EmpLname, Department, Project, Address, DOB, Gender) VALUES (1, 'Sanjay', 'Mehra', 'HR', 'P1', 'Hyderabad (HYD)', '1976-12-01', 'M');
+INSERT INTO EmployeeInfo(EmpID, EmpFname, EmpLname, Department, Project, Address, DOB, Gender) VALUES (2, 'Ananya', 'Mishra', 'Admin', 'P2', 'Delhi (DEL)', '1968-05-02', 'F');
+INSERT INTO EmployeeInfo(EmpID, EmpFname, EmpLname, Department, Project, Address, DOB, Gender) VALUES (3, 'Rohan', 'Diwan', 'Account', 'P3', 'Mumbai (BOM)', '1980-01-01', 'M');
+INSERT INTO EmployeeInfo(EmpID, EmpFname, EmpLname, Department, Project, Address, DOB, Gender) VALUES (4, 'Sonia', 'Kulkarni', 'HR', 'P1', 'Hyderabad (HYD)', '1992-05-02', 'F');
+INSERT INTO EmployeeInfo(EmpID, EmpFname, EmpLname, Department, Project, Address, DOB, Gender) VALUES (5, 'Ankit', 'Kapoor', 'Admin', 'P2', 'Delhi (DEL)', '1994-07-03', 'M');
+
+
+CREATE TABLE EmployeePosition (
+  EmpID INT,
+  EmpPosition VARCHAR(100),
+  DateOfJoining DATE,
+  Salary INT
+);
+
+INSERT INTO EmployeePosition(EmpID, EmpPosition, DateOfJoining, Salary) VALUES (1, 'Manager', '2022-05-01', 500000);
+INSERT INTO EmployeePosition(EmpID, EmpPosition, DateOfJoining, Salary) VALUES (2, 'Executive', '2022-05-02', 75000);
+INSERT INTO EmployeePosition(EmpID, EmpPosition, DateOfJoining, Salary) VALUES (3, 'Manager', '2022-05-01', 90000);
+INSERT INTO EmployeePosition(EmpID, EmpPosition, DateOfJoining, Salary) VALUES (2, 'Lead', '2022-05-02', 85000);
+INSERT INTO EmployeePosition(EmpID, EmpPosition, DateOfJoining, Salary) VALUES (1, 'Manager', '2022-05-01', 300000);
