@@ -3,8 +3,8 @@
 
 ### Syllabus 
 
-[Academic Year 2024 to 2025](./syllabus/AY2024TO2025/)
-[Academic Year 2025 to 2026](./syllabus/AY2025TO2026/)
+[Academic Year 2024 to 2025](./syllabus/AY2024TO2025/)<br>
+[Academic Year 2025 to 2026](./syllabus/AY2025TO2026/)<br>
 
 ### Core Courses 
 
