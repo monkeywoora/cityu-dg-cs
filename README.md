@@ -1,6 +1,11 @@
 # cityu-dg-cs
 ## Fast Navigator 快速导航
 
+### Syllabus 
+
+[Academic Year 2024 to 2025](./syllabus/AY2024TO2025/)
+[Academic Year 2025 to 2026](./syllabus/AY2025TO2026/)
+
 ### Core Courses 
 
 [CS5222 : Computer Networks and Internets](./CS5222_Computer_Networks_and_Internets/)<br>
