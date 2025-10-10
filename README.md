@@ -26,13 +26,13 @@
 
 ## Declaration 声明
 
-Genuinely selfless and help:Here are the details and documents . It has been less than one academic year since I became the successor of this repository. Considering this, I feel If you find mistakes among this repository, please help us correct them.
+We genuinely our classmates' and friends' selfless and generous help: Here are the details and documents for CS major, which are organized. It has been less than one academic year since I became the successor of this repository. Considering this, I am humbled with reverence and awe‌. If you find mistakes among this repository, please help us correct them.  
 
-Chongyu Chang 
+Chongyu Chang  
 
-23/09/2025
+23/09/2025  
 
-感谢同学们的无私相助:这里是经的整合电脑科学的授课资料，本人接手不到一学年，诚惶诚恐，如果有错误或者纰漏之处，恳请大家斧正。
+感谢同学们的无私相助:这里是经的整合电脑科学的授课资料，本人接手不到一学年，诚惶诚恐，如果有错误或者纰漏之处，恳请大家斧正。  
 
-常崇昱 写于 2025.09.23 
+常崇昱 写于 2025.09.23   
 
