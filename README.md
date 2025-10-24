@@ -31,6 +31,15 @@
 
 ## Declaration 声明
 
+> "Therefore since they philosophized order to escape from ignorance, evidently they were pursuing science in order to know, and not for any utilitarian end."
+> —— Aristotle "Metaphysics"
+
+Esteemed vistors, 
+
+Greetings.
+
+I sincerely hope this program finds you well.
+
 We genuinely our classmates' and friends' selfless and generous help: Here are the details and documents for CS major, which are organized. It has been less than one academic year since I became the successor of this repository. Considering this, I am humbled with reverence and awe‌. If you find mistakes among this repository, please help us correct them.  
 
 Chongyu Chang  
