@@ -1,7 +1,7 @@
 # cityu-dg-cs
 ## Letter of Statement 陈述信
 
-> "Therefore since they philosophized order to escape from ignorance, evidently they were pursuing science in order to know, and not for any utilitarian end."
+> "Therefore since they philosophized order to escape from ignorance, evidently they were pursuing science in order to know, and not for any utilitarian end."<br>
 > —— Aristotle "Metaphysics"
 
 Esteemed visitors of this repository, 
@@ -26,7 +26,7 @@ Chongyu Chang  
 
 27/10/2025  
 
-> "因此，他们探索哲理只是为想脱出愚蠢；显然，他们为求知而从事学术，幷无任何功利的目的。"
+> "因此，他们探索哲理只是为想脱出愚蠢；显然，他们为求知而从事学术，幷无任何功利的目的。"<br>
 > —— 亚里士多德《形而上学》
 
 尊敬的访问者：
