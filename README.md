@@ -20,7 +20,7 @@ Furthermore, I would like to give you some special reminders: Using these materi
 
 In conclusion, we truly appreciate your visit. What's more, we are also genuinely looking forward to the participation of new outstanding members.
 
-Yours faithfully,
+Yours Faithfully,
 
 Chongyu Chang  
 
