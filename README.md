@@ -70,10 +70,12 @@ Chongyu Chang  
 
 ### Elective Courses Group I
 
+[CS5487 : Machine Learning: Principles and Practice	](./CS5487_Machine_Learning/)<br>
 [CS5489 : Machine Learning: Algorithms and Applications	](./CS5489_Machine_Learning/)<br>
 [CS6290 : Privacy-enhancing Technologies](./CS6290_Privacy_Enhancing_Technologies/)<br>
 [CS6382 : Algorithm Analysis and Game Theory](./CS6382_Algorithm_Analysis_and_Game_Theory/)<br>
 [CS6493 : Natural Language Processing](./CS6493_Natural_Language_Processing/)<br>
+[CS6535 : Guided Study in Artificial Intelligence](./CS6535_Guided_Study_in_Artificial_Intelligence/)<br>
 
 ### Elective Courses Group II
 
@@ -86,14 +88,10 @@ Chongyu Chang  
 
 
 
-
-
 ## Link Exchange 友情链接
 
 [CityU BSCEGU2](https://github.com/jerrykhh/cityu)
-
-
+<br>
 [CityU-Courses](https://github.com/Restraint-a/CityU-Courses)
-
-
+<br>
 [CityU_CS_Assignments](https://github.com/dehezhang2/CityU_CS_Assignments)
