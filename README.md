@@ -91,4 +91,5 @@ Chongyu Chang  
 
 [CityU BSCEGU2](https://github.com/jerrykhh/cityu)<br>
 [CityU-Courses](https://github.com/Restraint-a/CityU-Courses)<br>
-[CityU_CS_Assignments](https://github.com/dehezhang2/CityU_CS_Assignments)
+[CityU_CS_Assignments](https://github.com/dehezhang2/CityU_CS_Assignments)<br>
+[Cityu-CS-review](https://github.com/SHANECHEN0722/cityu-CS-review)<br>
