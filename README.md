@@ -70,6 +70,7 @@ Chongyu Chang  
 
 ### Elective Courses Group I
 
+[CS5188 : Virtual Reality Technologies and Applications](./CS5188_VR_Technologies_and_Applications/)<br>
 [CS5487 : Machine Learning: Principles and Practice	](./CS5487_Machine_Learning/)<br>
 [CS5489 : Machine Learning: Algorithms and Applications	](./CS5489_Machine_Learning/)<br>
 [CS6290 : Privacy-enhancing Technologies](./CS6290_Privacy_Enhancing_Technologies/)<br>
@@ -81,6 +82,7 @@ Chongyu Chang  
 [CS5182 : Computer Graphics](./CS5187_Vision_and_Image/)<br>
 [CS5187 : Vision and Image](./CS5187_Vision_and_Image/)<br>
 [CS5285 : Information Security for eCommerce](./CS5285_Infor_Security_for_E-commerce/)<br>
+[CS5294 : Information Security Technology Management](./CS5294_Infor_Security_Technology_Management]/)<br>
 [CS5486 : Intelligent Systems](./CS5486_Intelligent_Systems/)<br>
 [CS5491 : Artificial Intelligence](./CS5491_Artificial_Intelligence/)<br>
 [CS6491 : Topics in Optimization and its Applications in Computer Science](./CS6491_Topics_In_Optimization_And_Applications_In_CS/)<br>
