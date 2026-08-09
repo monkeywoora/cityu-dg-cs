@@ -79,7 +79,8 @@ Chongyu Chang  
 
 ### Elective Courses Group II
 
-[CS5182 : Computer Graphics](./CS5187_Vision_and_Image/)<br>
+[CS5182 : Computer Graphics](./CS5182_Computer_Graphics/)<br>
+[CS5185 : Multimedia Technologies and Applications](./CS5185_Multimedia_Technologies_and_Applications/)<br>
 [CS5187 : Vision and Image](./CS5187_Vision_and_Image/)<br>
 [CS5285 : Information Security for eCommerce](./CS5285_Infor_Security_for_E-commerce/)<br>
 [CS5294 : Information Security Technology Management](./CS5294_Infor_Security_Technology_Management]/)<br>
